@@ -1,0 +1,28 @@
+# 캐시 및 임시 파일
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.runs/
+
+# 로그 파일
+*.log
+*.jou
+*.str
+
+# 빌드 결과 파일
+*.bit
+*.bin
+*.elf
+*.tcl
+
+# Vivado 자동 생성 폴더
+*.sdk/
+*.gen/
+*.wcfg/
+
+# 특정 파일 제외
+*.backup
+*.pb
+*.zip
+*.html
