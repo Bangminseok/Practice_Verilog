@@ -1,0 +1,50 @@
+# Vivado 관련 파일
+*.xpr
+*.runs/
+*.hw/
+*.sdk/
+*.log
+*.jou
+*.tcl
+*.bit
+*.bin
+*.elf
+*.xci
+*.xco
+.ip_user_files/
+.cache/
+
+# Quartus 관련 파일
+*.qsf
+*.qpf
+*.qws
+*.sof
+*.sof.*
+*.rpt
+*.rda
+*.bld/
+*.qip
+
+# 시뮬레이션 관련 파일
+sim/
+*.vcd
+*.wdb
+*.log
+*.jou
+*.bdb
+*.vho
+*.wlf
+
+# IP 관련 파일
+*.xci
+*.xco
+.ip_user_files/
+
+# 자동 생성된 폴더와 캐시
+.cache/
+.hw/
+.xpr/
+
+# 개인적인 설정 파일들
+.idea/
+.vscode/
