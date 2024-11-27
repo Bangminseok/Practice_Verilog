@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../norgate.srcs/sources_1/new/norgate.v" \
+"../../../../norgate.srcs/sim_1/new/tb_norgate.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
