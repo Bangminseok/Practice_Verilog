@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../OneDrive/πŸ≈¡ »≠∏È/watch_design/matbi_one_sec_gen.v" \
+"../../../../../OneDrive/πŸ≈¡ »≠∏È/watch_design/matbi_watch_top.v" \
+"../../../../watach_design.srcs/sim_1/new/tb_matbi_watch_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
