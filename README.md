@@ -1,4 +1,4 @@
-#[Digital Logic Circuit by Verilog HDL](https://docs.google.com/document/d/1i9Qk29RYSsGqpeaAAcgkI_iF8jF4qQJQJzh5cUCM3Aw/edit?usp=sharing)
+# [Digital Logic Circuit by Verilog HDL](https://docs.google.com/document/d/1i9Qk29RYSsGqpeaAAcgkI_iF8jF4qQJQJzh5cUCM3Aw/edit?usp=sharing)
 
 ## preview
 
